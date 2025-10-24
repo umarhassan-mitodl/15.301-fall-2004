@@ -172,9 +172,9 @@ Final Exam
 
 Bem, Daryl J. "Writing the Empirical Journal Article." A version of this article is published in: Darley, J. M., M. P. Zanna, and H. L. Roediger III, eds. _The Compleat Academic: A practical Guide for the Beginning Social Scientist._ 2nd ed. Washington, D. C.: American Psychological Association, 2003. ISBN: 1591470358.
 
-Bronson, Po. "{{% resource_link "62403140-f477-4f48-a875-573d05e5479b" "A Prayer Before Dying" %}}." _Wired,_ December 2002.
+Bronson, Po. "[A Prayer Before Dying](http://www.wired.com/wired/archive/10.12/prayer.html)." _Wired,_ December 2002.
 
-Ariely, Dan, George Loewenstein, and Drazen Prelec. "Tom Sawyer and the Myth of Fundamental Value." Soon to be published in {{% resource_link "c74abd11-cf69-4705-8f13-f63c2fccf741" "JEBO" %}} (Journal of Economic Behavior and Organization).
+Ariely, Dan, George Loewenstein, and Drazen Prelec. "Tom Sawyer and the Myth of Fundamental Value." Soon to be published in [JEBO](http://www.elsevier.com/wps/find/journaldescription.cws_home/505559/description) (Journal of Economic Behavior and Organization).
 
 Ariely, Dan, and Klaus Wertenbroch. "Procrastination, Deadlines, and Performance: Self-Control by Precommitment." _Psychological Science_ 13, no. 3 (May 2002): 219-224.
 
